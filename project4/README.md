@@ -5,7 +5,7 @@
 ![Redis](https://img.shields.io/badge/Redis-Sorted_Set-DC382D?logo=redis&logoColor=white)
 
 ## 핵심 학습 포인트
-- **Cursor 기반 무한스크롤** — Offset 페이징 문제 해결
+- **Cursor 기반 무한스크롤**
 - **Redis Sorted Set** 인기 게시글 실시간 랭킹
 - **Redis Set** 좋아요 원자적 연산 (동시성 문제 해결)
 - **계층형 댓글** 자기 참조 + Soft Delete
